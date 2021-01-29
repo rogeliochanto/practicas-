@@ -4,5 +4,7 @@ b = "otro string"
 puts a.length
 puts b.length
 #stream de multiples lineas
-c = "esto es\nesto es un streng de multiples lineas"
+c = "esto es un string \n de multiples lineas"
 puts c
+age = 56 
+puts "mi edad es #{age}" 
